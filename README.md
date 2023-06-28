@@ -1,3 +1,13 @@
+
+# functionality:
+
+1.This software allows you to look up any kind of workout and get information about it.
+
+2.You can also see some of the alternative exercises we have available as videos.
+
+3.You may look up any kind of activity, and it displays the results in gif format so you can do it during your workout.
+
+
 Hosting Link->https://gold-gym-omega.vercel.app/
 
 # Getting Started with Create React App
