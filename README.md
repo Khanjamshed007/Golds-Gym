@@ -8,7 +8,7 @@
 3.You may look up any kind of activity, and it displays the results in gif format so you can do it during your workout.
 
 
-Hosting Link->https://gold-gym-omega.vercel.app/
+Hosting Link->[https://gold-gym-omega.vercel.app/](https://gym-website-react.vercel.app/)
 
 # Getting Started with Create React App
 
